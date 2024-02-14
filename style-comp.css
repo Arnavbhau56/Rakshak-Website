@@ -79,6 +79,7 @@ main {
     max-width: 400px;
     float: left;
     margin-right: 50px;
+    box-shadow: -10px -10px #f57c1f;
 }
 
 .text-box{
@@ -93,8 +94,12 @@ main {
     float: right;
     margin-right: 50px;
     margin-left: 50px;
+    box-shadow: 10px -10px #EBF400;
 }
 
 h2{
+    text-align: center;
+    margin-bottom: 20px;
     color: #950101;
+    font-family: protest revolution;
 }
